@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --C-0: #fff;
+    --C-1: #333333;
+    --C-2: #4f4f4f;
+    --C-3: #bdbdbd; 
+
+    --f-logo: 'Inconsolata', monospace;
+    --f-main: 'Space Mono', monospace;
+    --f-footer: 'Montserrat', sans-serif;
+}
+
+
+
