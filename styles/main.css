@@ -27,6 +27,7 @@ main {
     justify-content: center;
     padding-left: 22px;
     padding-top: 50px;
+    padding-bottom: 50px;
     gap: 50px;
 }
 
@@ -76,8 +77,7 @@ main {
 
 .Footer {
     width: 287px;
-    padding-top: 100px;
-    padding-bottom: 40px;
+    align-self: center;
     justify-self: center;
     font-family: var(--f-footer);
     color: var(--C-3);
